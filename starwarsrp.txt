@@ -1,0 +1,6 @@
+"Gamemode"
+{
+	"title"		"SWRP"
+	"base"		"base"
+	"menusystem"	"1"
+}
